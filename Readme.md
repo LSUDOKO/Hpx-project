@@ -44,3 +44,34 @@ The system follows a modular **Client-Server** architecture as illustrated in th
 ├── client/               # User-facing orchestration
 │   └── main.cpp          # Runtime initialization and async invocation
 └── Readme.md             # Documentation
+```
+##  Prerequisites
+
+- **HPX**: Version 1.10.0+  
+- **CMake**: Version 3.19+  
+- **C++ Compiler**: Support for C++17 or higher  
+- **Boost/Asio**: Compatible with your HPX build  
+
+---
+
+##  Build & Run
+
+### Configure the Project
+
+```bash
+mkdir build && cd build
+cmake .. -DHPX_DIR=/path/to/your/hpx/lib/cmake/HPX
+```
+### Compile 
+```
+make all
+```
+### Run 
+```
+./matmul_client --hpx:threads=4
+```
+- The --hpx:threads flag allows you to control the degree of parallelism at runtime.
+
+## Result 
+For a $100 \times 100$ matrix multiplication where all elements of $A=1$ and $B=2$, the system correctly produces a result vector where every element in the first row is $200$.
+<img width="1175" height="442" alt="image" src="https://github.com/user-attachments/assets/2c65a6b5-296a-409a-9b86-854f56661615" />
