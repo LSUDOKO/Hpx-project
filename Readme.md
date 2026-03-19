@@ -33,7 +33,7 @@ The system follows a modular **Client-Server** architecture as illustrated in th
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 .
