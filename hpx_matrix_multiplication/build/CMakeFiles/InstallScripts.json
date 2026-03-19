@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/arpit/Desktop/Gsoc/Hpx-project/hpx_matrix_multiplication/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
