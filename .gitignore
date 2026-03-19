@@ -1,0 +1,33 @@
+# Build directories
+build/
+hpx_matrix_multiplication/build/
+hello_world/build/
+
+# CMake artifacts
+CMakeCache.txt
+CMakeFiles/
+CMakeConfigureLog.yaml
+cmake_install.cmake
+Makefile
+*.so
+*.a
+*.out
+*.log
+
+# C++ IDEs
+.vscode/
+.idea/
+.clion/
+
+# GDB/Core dumps
+core
+vgcore.*
+
+# Temporary files
+*.swp
+*~
+.DS_Store
+
+# Agent stuff
+.gemini/
+antigravity/

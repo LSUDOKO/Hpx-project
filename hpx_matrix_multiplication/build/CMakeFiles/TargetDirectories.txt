@@ -1,8 +1,0 @@
-/home/arpit/Desktop/Gsoc/Hpx-project/hpx_matrix_multiplication/build/CMakeFiles/matrix_ops_component.dir
-/home/arpit/Desktop/Gsoc/Hpx-project/hpx_matrix_multiplication/build/CMakeFiles/matmul_client.dir
-/home/arpit/Desktop/Gsoc/Hpx-project/hpx_matrix_multiplication/build/CMakeFiles/edit_cache.dir
-/home/arpit/Desktop/Gsoc/Hpx-project/hpx_matrix_multiplication/build/CMakeFiles/rebuild_cache.dir
-/home/arpit/Desktop/Gsoc/Hpx-project/hpx_matrix_multiplication/build/CMakeFiles/list_install_components.dir
-/home/arpit/Desktop/Gsoc/Hpx-project/hpx_matrix_multiplication/build/CMakeFiles/install.dir
-/home/arpit/Desktop/Gsoc/Hpx-project/hpx_matrix_multiplication/build/CMakeFiles/install/local.dir
-/home/arpit/Desktop/Gsoc/Hpx-project/hpx_matrix_multiplication/build/CMakeFiles/install/strip.dir
